@@ -8,3 +8,18 @@ The <title> element specifies a title for the HTML page (which is shown in the b
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The <h1> element defines a large heading
 The <p> element defines a paragraph
+
+
+HTML Formatting Elements
+-------------------------------------
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
