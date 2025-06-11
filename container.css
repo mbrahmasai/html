@@ -1,0 +1,49 @@
+div{
+    background-color: blue;
+}
+
+
+.div1{
+    background-color: red;
+}
+.div2{
+    background-color: greenyellow;
+}
+
+span{
+    background-color: blue;
+}
+#span1{
+    background-color: pink;
+}
+#span2{
+    background-color: violet;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.data{
+       display: flex; 
+}
+div{
+    margin-right: 20px;
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+}
+
+.login{
+    border: 2px solid red;
+    height: 300px;
+    width: 300px;
+}
+.para{
+    border: 2px solid red;
+    height: 300px;
+    width: 300px;
+}
+

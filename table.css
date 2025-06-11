@@ -1,0 +1,14 @@
+*{
+    background-color: blue;
+}
+
+table{
+    background-color: red;
+    color: white;
+}
+th{
+    background-color: greenyellow;
+}
+td{
+    background-color: black;
+}
